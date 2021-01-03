@@ -22,8 +22,8 @@ public class Worker implements Serializable {
         this.dailyIncome = dailyIncome;
     }
 
-    public Worker()
-    { }
+    public Worker() {
+    }
 
     public Long getId() {
         return id;
